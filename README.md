@@ -1,4 +1,4 @@
-# Operating Systems (BCS303) — Module 2 & Module 3 Exam Answers
+# Operating Systems (BCS303) — Modules 1, 2 and 3 Exam Answers
 
 Exam-ready answers for VTU 3rd semester **Operating Systems (BCS303)**, covering **Module 2
 (Process Management, Threads and CPU Scheduling)** and **Module 3 (Process Synchronization
@@ -9,9 +9,9 @@ including the Model paper, the June/July 2025 Makeup paper and the June/July 202
 paper) + the Module 1–3 study notes and the Silberschatz textbook notes. Every Module 2 and
 Module 3 question that appears in those papers is answered here.
 
-Module 1 answers already exist in the companion repo
-[`t23050288-cmyk/os-bcs303`](https://github.com/t23050288-cmyk/os-bcs303). This repo adds the
-missing **Module 2 and Module 3**.
+This repo now holds **Module 1, Module 2 and Module 3** in one place: Module 1 notes
+(9 topic files), 9 Module 1 paper answer files, the definitions cheat sheet, the Blue Book
+assignment, and the Module 2 and Module 3 answers below.
 
 ## How every answer is structured (same as the Module 1 notes)
 
@@ -25,6 +25,15 @@ missing **Module 2 and Module 3**.
 Every numerical (CPU scheduling, Banker's algorithm, memory fit) was **computed and
 cross-checked programmatically**, so the Gantt charts, Need matrices, safe sequences and
 averages are verified, not guessed.
+
+## Module 1 — Introduction to Operating Systems
+
+| Path | Contents |
+|---|---|
+| [Module1-OS-Introduction/](Module1-OS-Introduction/) | 9 topic notes: OS overview and services, system calls, computer system organization, dual-mode operation, resource management, protection and security, OS structures, virtual machines, computing environments, plus a question mapping index |
+| [Module1-Question-Answers/](Module1-Question-Answers/) | Answers for 9 previous-year papers (Dec 2023/Jan 2024 both sets, Jun/Jul 2024 and its supplementary, Dec 2024/Jan 2025, Jun/Jul 2025 and its makeup, Dec 2025/Jan 2026, Model paper) |
+| [Module1-Definitions-CheatSheet.md](Module1-Definitions-CheatSheet.md) | One-line definitions for quick revision |
+| [OS-BlueBook-Assignment.md](OS-BlueBook-Assignment.md) | Blue Book assignment: 5 questions x 10 marks with the mark split followed |
 
 ## Module 2 — Process Management, Threads and CPU Scheduling
 
